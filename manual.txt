@@ -1,0 +1,43 @@
+commands
+inspect hay
+gather hammer
+gather pigeon
+no
+go forward
+gather songbird
+no
+go left
+gather hummingbird
+no
+go backward
+use songbird on door
+go right
+inspect lamp
+use hummingbird on chest
+gather hummingbird
+no
+go forward
+inspect photograph
+gather woodpecker
+yes
+<name>
+use <name> on door
+go forward
+gather pigeon
+yes
+<name>
+gather eagle
+yes
+<name>
+view <name>
+bag
+use eagle on pipe
+go forward
+gather murder
+no
+view murder
+go forward
+use pigeon on gertrude
+use murder on gertrude
+go forward
+quit

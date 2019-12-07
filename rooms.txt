@@ -1,0 +1,93 @@
+13
+
+#You wake up in a small windowless room. It seems to be a rather contrived plot device, but what matters is that you're now lost. A candlestick on the floor provides a small amount of light, just enough for you to see your surroundings. It's cold, and you want to escape. Ahead of you is a narrow corridor.
+1
+Hay As you look down, you realize you're laying on a bed of <hay>. At least whoever locked you in here wanted you to stay comfortable.
+Pigeon A <pigeon> feebly pecks at some of the bugs crawling on the floor. Not a terrible roommate, you think to yourself.
+Hammer You see a <hammer> lying flat on the floor. It looks old but perhaps it could help you escape.
+end
+Forward 1
+
+#As it turns out, the door ahead wasn't locked after all. You find yourself in another dark room, with only the light shining through the floorboards above to guide you. To the <left> is a small closet.
+1
+Songbird Interestingly enough, there are even more birds in this room. A <songbird> flies around the room trying to escape
+Pigeon while yet another <pigeon> just sits there with a stupid look on its face.
+MusicDoor To the <right>, you see a huge stone <door>. It looks fairly heavy. To the <left> is a small closet.
+end
+Left 2 Right 3 Backward 0
+
+#The closet doesn't seem to have anything except a few dusty shelves and old broomsticks. It's kind of smelly. While brushing the dust off some of the shelves, you notice some of the books are almost all about birds. How weird, you think to yourself. 
+1
+Hummingbird After further inspection, there is a small <hummingbird> hiding under one of the shelves. Maybe this could come in handy. Maybe.
+end
+Backward 1
+
+#The door leads to a winding stone staircase. You're now in what appears to be a kitchen. Judging by the state of disrepair, nobody's used this to prepare any food in a while. At least, you hope not. Ahead of you is a wide arching doorway. 
+0
+Lamp The kitchen is lit with several <lamp>s. 
+HummingChest A small wooden <chest> sits on one of the counters. It could contain something useful.
+end
+Forward 4 Backward 1
+
+#You proceed forward to what seems to be a great foyer with furniture such as cabinets and tables lining the walls. 
+1
+Door At the end of the hall you stand before a large front <door>, with windows on the top portion so you can see out. You see light outside and are overjoyed that this is the end of being trapped in this odd house. As you jiggle the doorhandle to let yourself out, you see it's locked.
+Photograph You notice on one of the tables that there is a <photograph>.
+Woodpecker Within a cabinet on the other side of the great hall, you notice a cage. Inside, a <woodpecker> sits absolutely still. What an odd sight, you think to yourself. 
+end
+Forward 5 Backward 3
+
+#You run outside into the sunlight and breathe a breath of fresh air. Your surroundings are still unrecognizable, but you can see you're in a courtyard with some worn down shrubs distributed throughout.
+0
+Tree The most noticable features are a very large <tree> in the center area and
+Gate a fence surrounding the courtyard with a doored <gate> positioned behind the tree. There are two breaks in the fence to the <left> and <right>, respectively. A gate leads <forward> out of the courtyard, but it appears to be locked.
+Eagle In the tree, you hear a loud sound, and as you look up you see an <eagle>
+Pigeon and a <pigeon> fighting.
+Pipe There is a water <pipe> visible that runs to the left. You can hear the trickle of water behind some bushes.
+end
+Forward 10 Left 6 Right 7 Backward 4
+
+#You decide to investigate the sound of running water, and proceed to the left.
+1
+Fountain You enter a small garden with a <fountain> in the middle, spewing discolored water. The water is putting off a putrid smell that is making you noxious. 
+Pigeon However, there is a <pigeon> perched on the edge of the concrete fountain looking at the water, debating whether to drink it.
+Pigeon Another <pigeon> sits nearby.
+end
+Backward 5
+
+#You decide to procede right, to the most available way that seems like an exit. You enter a path that has a thick and tall hedge on either side, acting like walls.  The wall's leaves rustle in the wind. As you proceed through the available path, you come up to a fork splitting the path into to ways: <left> and <right>. To the <left>, you can hear a bird chirping. To the <right>, simply more leaves rustling.
+1
+Pigeon There's also a <pigeon>.
+end
+Left 8 Right 9 Backward 5
+
+#You walk left into a dead end
+1
+SeedChest and find a small wooden <chest>.
+Pigeon There's a <pigeon> on top of it, trying to peck at it to get inside.
+end
+Backward 7
+
+#You walk right, and proceed down a long and and twisted path. Eventually you come across an opening and see a gate a ways before you.
+1
+Pigeon In the brush to the side, you see three <pigeon>s playing tug of war with a stick.
+end
+Forward 10 Backward 7
+
+#You approach the gate, not sure what to expect.
+0
+Murder A <murder> of crows swoop down and perch on the gate, cawing at you in warning.
+end
+Forward 11 Backward 9
+
+#You proceeded through the gate and a large expanse of trees await you on the other side. You begin walking through the forest outside and stop in your tracks as you see an old woman dressed in a raggedy old cloak. 
+1
+Gertrude "Ah hello," she says. "You've awoken, and have made it all the way out here! Good. Sorry about my messy home. It's hard to take care of since I'm such an old lady." "Who are you," you ask, "and how did I get into your house?" She responds. "Oh don't worry about that. Good news is that you are now awake." "Well, whatever the case, I must be leaving now," you say. Immediately, she responds: "Oh I can't allow that. After all, you have some things that belong to me." "What do you mean? These birds?" you ask. "Precisely! Now if you would just kindly hand them back to me, I'll let you go." she says. "Wait." you say with a confused look on your face. "I remember where and how you kept these birds in your home. That is no way to treat them. I intend to set them free, since they deserve to live peacefully in nature." "Oh dear, now this I simply cannot allow. You see, they are mine. It's what I do... collect birds. After all, that's what I'm called: <GERTRUDE>, THE BIRD COLLECTOR!" <Gertrude> exclaims as she stands fiercly in opposition to you. <Gertrude> stares you down, daring you to make a move.
+end
+Forward 12
+
+#You have completed the free trial of this game! To continue, all you need to do it pay a 1-time fee of $2.99! Please type in your credit card number to continue.
+1
+Pigeon You'll also get a bonus <pigeon> with your purchase. Bird feed not included.
+end
+Backward 12
